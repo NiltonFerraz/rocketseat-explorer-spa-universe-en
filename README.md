@@ -1,17 +1,18 @@
 # SPA Universe
 
-## 💻 Neste desafio, aprendi novos conceitos de JavaScript
+## 💻 In this challenge, I learned new JavaScript concepts
 
-Pratiquei e revi tudo o que foi ensinado na aula **💜**
+I practiced and reviewed everything taught in class **💜**
 
 <aside>
-💡 O que foi abordado nesse desafio:
+💡 What was covered in this challenge:
 
-- Conceitos de SPA;
-- Mapeamento de rotas;
-- Assíncrono e promises;
-- Orientação a objetos;
-- Classes e muito mais.
+- SPA concepts;
+- Route mapping;
+- Asynchronous and promises;
+- Object orientation;
+- Classes and much more.
+
 
 </aside>
 
@@ -21,4 +22,4 @@ Pratiquei e revi tudo o que foi ensinado na aula **💜**
 
 
 
-boooooora codar! **🚀**
+boooooora code! **🚀**
